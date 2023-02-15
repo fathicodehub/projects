@@ -1,3 +1,3 @@
 # projects
 
---> Folder where my persona; projects go
+- Folder where my personal projects go
