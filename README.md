@@ -1,3 +1,1 @@
-# projects
-
-- Folder where my personal projects go
+# All things HTML and CSS in
